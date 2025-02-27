@@ -1,0 +1,14 @@
+Metadata-Version: 2.2
+Name: NetworkSecurity
+Version: 0.0.2
+Author: Akash Kumar Swarnkar
+Author-email: akashkumarswarnkar7172@gmail.com
+License-File: LICENSE
+Requires-Dist: python-dotenv
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: pymongo
+Requires-Dist: certifi
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
